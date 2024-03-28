@@ -85,3 +85,8 @@ For issues with LLM Foundry, or any of the underlying training libraries, please
 ## License
 
 Our model weights and code are licensed for both researchers and commercial entities. The [Databricks Open Source License](https://www.databricks.com/legal/open-model-license) can be found at [LICENSE](LICENSE), and our Acceptable Use Policy can be found [here](https://www.databricks.com/legal/acceptable-use-policy-open-model).
+
+
+
+## Related Repository
+[1] https://github.com/databricks/megablocks
